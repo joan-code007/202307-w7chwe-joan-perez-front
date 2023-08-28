@@ -1,0 +1,12 @@
+.robots-page {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 100px;
+}
+
+.robots-page__heading {
+  font-size: 1.8rem;
+  margin: 0;
+  padding: 24px;
+}
