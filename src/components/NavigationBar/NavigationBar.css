@@ -1,0 +1,30 @@
+.navigation-bar__elements {
+  color: aliceblue;
+  display: flex;
+  width: 100vw;
+  justify-content: space-around;
+  padding: 16px 4px;
+  font-weight: bold;
+  text-transform: uppercase;
+  background-color: #aa30dd;
+}
+
+.navigation-bar__add.active {
+  text-decoration: underline;
+  text-underline-offset: 0.3rem;
+  text-decoration-thickness: 1.5px;
+}
+
+.navigation-bar__home.active {
+  text-decoration: underline;
+  text-underline-offset: 0.3rem;
+  text-decoration-thickness: 1.5px;
+}
+
+.navigation-bar__home {
+  text-decoration: none;
+}
+
+.navigation-bar__add {
+  text-decoration: none;
+}
