@@ -19,7 +19,6 @@ const RobotsListPage = (): React.ReactElement => {
   return (
     <section className="robots-page">
       <h2 className="robots-page__heading">Robots List</h2>
-      <button>Sign in</button>
       <RobotsList />
     </section>
   );

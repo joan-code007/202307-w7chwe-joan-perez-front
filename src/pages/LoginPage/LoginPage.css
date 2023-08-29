@@ -1,0 +1,22 @@
+.login {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-items: center;
+  gap: 32px;
+}
+
+.login-button {
+  color: white;
+  background-color: rgb(43, 226, 122);
+  border: 2px black solid;
+  top: 400px;
+  width: 150px;
+  height: 50px;
+}
+
+.login__welcome {
+  margin: 0;
+  padding: 10px;
+}
