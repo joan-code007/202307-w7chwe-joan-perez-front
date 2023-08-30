@@ -8,7 +8,7 @@ const Header = (): React.ReactElement => {
         <h1 className="header__title">Robots</h1>
         <img
           className="main-header__logo"
-          src="/img/app-logo.webp"
+          src="/img/app-logo2.png"
           alt="Robots webpage logo"
           width="82"
           height="67"
