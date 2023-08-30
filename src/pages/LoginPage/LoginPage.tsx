@@ -23,7 +23,7 @@ const LoginPage = (): React.ReactElement => {
   return (
     <div className="login">
       <h2 className="login__welcome">
-        ! Create your favourite anime robots !✌🏻
+        ! Create the best robots of all times !✌🏻
       </h2>
       {user ? (
         <button onClick={logout} className="login-button">
